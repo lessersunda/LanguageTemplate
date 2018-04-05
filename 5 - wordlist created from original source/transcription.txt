@@ -22,6 +22,9 @@ reasons of cross-linguistic comparison.
  NOTE: You may use X-SAMPA input instead of Unicode IPA for segments, if it is
        more convenient for you.
 
+ NOTE: Brackets () are not valid IPA symbols. Please decide on one particular
+       realization for the “Segments” column.
+
  • Glottal stops are written in the transcription where they appear in the
    produced sound. The distinction of glottal stops is relevant both for the
    phonology of some languages and for historical reconstruction and should be
