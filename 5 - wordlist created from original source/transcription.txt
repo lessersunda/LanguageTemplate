@@ -1,0 +1,40 @@
+Please fill in the form as given in the source (same orthography/transcription
+convention) in the “Form” column. If the source uses IPA and you have a hard
+time entering IPA Unicode symbols, you may instead use X-SAMPA for transcription.
+
+We can generate segmented, normalized IPA transcriptions (“Segments”) from those
+values if there is a systematic way to do so. We are happy to take
+Search-and-Replace descriptions, python functions, CLTS transcription systems or
+regular expression chains to execute this step; we may be able to support other
+ways, feel free to get in contact with the editors.
+
+As individual entries of the “Segments” column for those forms where that is not
+possible, and as expected result of the automatic transcription, we would like
+to obtain data that matches the following as closely as you can manage, for
+reasons of cross-linguistic comparison.
+
+ • Phonetic segments are separated by spaces.
+
+ • Symbols used are part of the International Phonetic Alphabet, with the
+   function they have in it. (For example, [y] is a rounded central front vowel,
+   not a palatal approximant.)
+
+ NOTE: You may use X-SAMPA input instead of Unicode IPA for segments, if it is
+       more convenient for you.
+
+ • Glottal stops are written in the transcription where they appear in the
+   produced sound. The distinction of glottal stops is relevant both for the
+   phonology of some languages and for historical reconstruction and should be
+   maintained.
+
+ • Diphtongs are transcribed as a normal vowel followed by a non-syllabic vowel,
+   eg. [a i̯]. This allows other researchers to understand them as different
+   segments for the purposes of cross-linguistic comparison eg. for historical
+   reconstruction, but maintains the difference to vowel sequences, as seen eg.
+   in Indonesian [l a . ʊ t].
+
+ • Long vowels are transcribed with length symbol [oː], even when they are
+   phonologically or diachronically two identical vowels.
+
+ • Syllable stress is marked where available, even when it can be systematically
+   derived.
