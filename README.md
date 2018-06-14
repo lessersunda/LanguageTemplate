@@ -30,8 +30,9 @@ Make a digital version of the original source available here. Scan a
 Formalize the source description. The folder "3 - normalized metadata of
         original source" contains examples for various types of sources, from
         fieldwork via published books to online databases. Take the one most
-        fitting for your type of source, open it in a text editor (eg. Notepad++
-        or notepad, not Word) and modify it to reflect the source.
+        fitting for your type of source, open it in a text editor (ideally eg.
+        Notepad++; Word probably works, too) and modify it to reflect the
+        source.
 
 **NOTE** *If you are familiar with BibTeX, you may use any of it to describe the
           source. If you want to use non-standard fields or genres, get in
