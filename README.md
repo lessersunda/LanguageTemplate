@@ -94,6 +94,12 @@ Create the word list (Pick one of Excel or CSV, delete the other). Take
           if the source transcribes phonemically). See "5 - wordlist created from
           original source/transcription.txt" for details.*
 
+**NOTE** *You are allowed to reorder rows and columns as you wish. The importer
+          is only interested in the “Concept_ID”, “Lect_ID”, “Form”, “Segments”
+          and “Comment” columns and will IGNORE ALL OTHER COLUMNS. So if you
+          notice an error in eg. the “Elicitation Notes”, you need to contact
+          the editors or raise an issue on GitHub.*
+
 **NOTE** *If you leave the “Lect_ID” or “Concept_ID” fields empty, we assume you
           mean “The same value as in the row above”. So, if you have synonyms
           directly under each other, you may leave out their concept
@@ -103,11 +109,4 @@ Create the word list (Pick one of Excel or CSV, delete the other). Take
           easiest way to include multiple word lists is to have them one above
           the other in the table.*
 
-**NOTE** *You are allowed to reorder rows and columns as you wish. The importer
-          is only interested in the “Concept_ID”, “Lect_ID”, “Form”, “Segments”
-          and “Comment” columns and will IGNORE ALL OTHER COLUMNS. So if you
-          notice an error in eg. the “Elicitation Notes”, you need to contact
-          the editors or raise an issue on GitHub. Keep in mind that if you
-          re-order rows, you need to have all “Concept_ID” and “Lect_ID” filled,
-          otherwise you might mix up things.*
 
