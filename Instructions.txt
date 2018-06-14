@@ -2,6 +2,9 @@ Step 0: Copy the entire "0 - New Wordlist Template" folder into your favourite
         working directory and rename it to the name of the language you are
         working on.
 
+    NOTE: Please avoid renaming anything else. You may freely delete files that
+          you have no use for.
+
 Step 1: Put a description of the source in the folder "1 - description of the
         original source". You can choose whatever format is handy. Type a few
         lines in Word, save a webpage to that folder, copy the Excel sheet
