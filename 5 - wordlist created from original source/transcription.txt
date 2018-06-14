@@ -8,10 +8,10 @@ Search-and-Replace descriptions, python functions, CLTS transcription systems or
 regular expression chains to execute this step; we may be able to support other
 ways, feel free to get in contact with the editors.
 
-As individual entries of the “Segments” column for those forms where that is not
-possible, and as expected result of the automatic transcription, we would like
-to obtain data that matches the following as closely as you can manage, for
-reasons of cross-linguistic comparison.
+As expected result of the automatic transcription, as well as for individual
+entries of the “Segments” column for those forms where that is not possible, we
+would like to obtain data that matches the following as closely as you can
+manage, for reasons of cross-linguistic comparison.
 
  • Phonetic segments are separated by spaces.
 
@@ -30,11 +30,11 @@ reasons of cross-linguistic comparison.
    phonology of some languages and for historical reconstruction and should be
    maintained.
 
- • Diphtongs are transcribed as a normal vowel followed by a non-syllabic vowel,
-   eg. [a i̯]. This allows other researchers to understand them as different
-   segments for the purposes of cross-linguistic comparison eg. for historical
-   reconstruction, but maintains the difference to vowel sequences, as seen eg.
-   in Indonesian [l a . ʊ t].
+ • Diphtongs are ideally transcribed as a normal vowel followed by a non-syllabic
+   vowel, eg. [a i̯]. This allows other researchers to understand them as
+   different segments for the purposes of cross-linguistic comparison eg. for
+   historical reconstruction, but maintains the difference to vowel sequences, as
+   seen eg. in Indonesian [l a . ʊ t].
 
  • Long vowels are transcribed with length symbol [oː], even when they are
    phonologically or diachronically two identical vowels.
