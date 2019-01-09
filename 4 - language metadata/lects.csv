@@ -1,3 +1,2 @@
-ID,Name,Family,Latitude,Longitude,Region,Glottocode,Iso,Culture,Description,Comment
-abui1241-lexi,Abui-Lexirumah,Timor-Alor-Pantar,-8.226,124.6683,"North Alor Tengah, Alor Regency, East Nusa Tenggara, Indonesia",abui1241,abz,,,
-,,,,,,,,,,
+ID,Name,Family,Latitude,Longitude,Region,Glottocode,Iso,Culture,Description,Comment,Orthography
+abui1241-lexi,Abui-Lexirumah,Timor-Alor-Pantar,-8.226,124.6683,"North Alor Tengah, Alor Regency, East Nusa Tenggara, Indonesia",abui1241,abz,,,,p/general
