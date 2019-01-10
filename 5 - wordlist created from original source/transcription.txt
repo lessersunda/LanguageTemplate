@@ -1,10 +1,15 @@
-Please fill in the form as given in the source (same orthography/transcription
-convention) in the corresponding column.
+Please fill in the form as given in the source in the ‘Form_according_to_Source’ column. Use the same transcription and symbols as given in the source. If you are filling in the wordlist based on your own fieldwork, fell free to use whatever transcription convention you think is sensible for this column.
 
-We can generate normalized IPA (“Form”), segmented, transcriptions (“Segments”),
-and local “Orthography” from those values if there is a systematic way to do so.
-We are happy to take transcoder descriptions or non-colliding Search-and-Replace
-descriptions to execute this step. (We can also understand and use python
-functions, CLTS transcription systems or regular expression chains; we may
-be able to support other ways, feel free to get in contact with the editors.)
+We can then generate normalized IPA (“Form”), segmented, transcriptions (“Segments”), and local “Orthography” from those values if there is a systematic way to do so. Please tell us if the source uses non-IPA standard symbols which will need to be replaced in the Form (IPA) column.
 
+We can take transcoder description or non-overlapping Search-and-Replace descriptions to execute this step. (We can also understand and use python functions, CLTS transcription systems or regular expression chains; we may be able to support other ways, feel free to get in contact with the editors.)
+
+Please also tell us if the orthography column should be different in some way from the Form_according_to_Source column. If you do not tell us anything about the orthography, we will either take use the Form_according_to_Source for this column or use Indonesian orthographic conventions as far as possible.
+
+So, for example, you might be working with an old Dutch source which uses <dj> for the voiced alveo-palatal please tell us that this digraph has that value and whether this should be <j> in the orthography column.
+
+If under-representation (or over-representation) is an issue in the source and you have knowledge of what the correct form is then please manually fill in the Form (IPA) column and orthography columns for instances which are nor fully represented in the source.
+
+Thus for instance, you might be working with Middelkoop (1972) a dictionary of the Molo variety of Meto which doesn not transcribe glottal stops consistently. You see the word <meto> ‘dry’ but know that there is a final glottal stop. Please enter meto in the Form_according_to_Source column, enter metoʔ in the form IPA column, and meto' in the orthography column.
+
+If you do manually enter things into any column apart from the Form_according_to_Source column then please tell us that you have done this so that we can check that everything conforms to our standardized transcription. (i.e. We use d͡ʒ for the voiced alveo-palatal affricate rather than the symbol ɟ or the ligature ʤ)
