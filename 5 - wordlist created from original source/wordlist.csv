@@ -545,7 +545,7 @@ NUMBER,Concept_ID,CONCEPTICON_ID,Swadesh,English,Indonesian,Semantic_Field,Ontol
 544,to_worship,257,,to worship,bersembayang,Religion and belief,Action/Process,,,,,,
 545,holy,1702,,holy,suci; kudus,Religion and belief,Property,,,,,,
 546,to_bless,391,,to bless,memberkati,Religion and belief,Action/Process,,,,,,
-547,God,1944,,God,Tuhan,Religion and belief,Person/Thing,,,,,,
+547,God,1944,,God,Tuhan Allah,Religion and belief,Person/Thing,,,,,,
 548,to_pray,24,,to pray,berdoa,Religion and belief,Action/Process,,,,,,
 549,church,1349,,church,gereja,Religion and belief,Person/Thing,,,,,,
 550,mosque,1603,,mosque,mesjid,Religion and belief,Person/Thing,,,,,,
